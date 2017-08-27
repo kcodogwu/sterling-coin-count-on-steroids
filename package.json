@@ -1,0 +1,32 @@
+{
+  "name": "sterling-coin-count-on-steroids",
+  "version": "1.0.0",
+  "description": "Sterling Coin Count on Steroids is the crazy cousin to [Sterling Coin Count](https://github.com/kcodogwu/sterling-coin-count). Just like his cousin, when given a number of pennies will calculate the minimum number of pound sterling coins needed to make that amount.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kcodogwu/sterling-coin-count-on-steroids.git"
+  },
+  "keywords": [
+    "sterling",
+    "coin",
+    "count",
+    "steroids",
+    "app",
+    "inferno",
+    "javascript",
+    "js"
+  ],
+  "author": "Kingson Chinedu Odogwu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kcodogwu/sterling-coin-count-on-steroids/issues"
+  },
+  "homepage": "https://github.com/kcodogwu/sterling-coin-count-on-steroids#readme",
+  "engines": {
+    "node": "6.11.1"
+  }
+}
